@@ -2,7 +2,7 @@
 Increment an Arbitrary-Precision Integer
 E.g -
 [1, 2, 3] => [1, 2, 4]
-[1, 2, 9= => [1, 3, 0]
+[1, 2, 9] => [1, 3, 0]
 """
 def increment_by_one(arr):
     # Kids do this
