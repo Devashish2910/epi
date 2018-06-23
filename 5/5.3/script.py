@@ -1,7 +1,7 @@
 """
 Multiply two Arbitrary-Precision Integer
 E.g -
-[-2, 1], [1, 0, 0] => [2, 1, 0, 0]
+[-2, 1], [1, 0, 0] => [-2, 1, 0, 0]
 [2, 2, 2], [9, 8, 7, 6, 5] => [2, 1, 9, 2, 5, 8, 3, 0]
 """
 def multiply_two_arrs(num1, num2):
